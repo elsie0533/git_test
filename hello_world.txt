@@ -1,1 +1,2 @@
 I'm adding some text to hello_world.txt :)
+I'm adding a second line to my txt file.
